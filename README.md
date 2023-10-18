@@ -4,6 +4,7 @@
 
 ### Erdit's Question
 **Q**: how would the system handle multiple currencies for international students or house sharers?
+
 **A**: handle by converting to the currency that the system is using, using the current currency exchange rate.
 
 ### Paul's Question
